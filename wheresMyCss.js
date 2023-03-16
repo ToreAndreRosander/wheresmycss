@@ -1,3 +1,7 @@
+/** wheresmycss by Rosander - www.rosander.no
+ *  version 0.1
+ */
+
 const seen = new Set();
 let defined = false;
 
